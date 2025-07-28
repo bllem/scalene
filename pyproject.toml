@@ -2,6 +2,7 @@
 name = "scalene"
 description = "Scalene: A high-resolution, low-overhead CPU, GPU, and memory profiler for Python with AI-powered optimization suggestions"
 readme = "README.md"
+license = "MIT AND (Apache-2.0 OR BSD-2-Clause)"
 keywords = ["performance", "profiler", "optimization", "CPU", "GPU", "memory", "LLM"]
 authors = [
     {name = "Emery Berger", email = "emery@cs.umass.edu"},
